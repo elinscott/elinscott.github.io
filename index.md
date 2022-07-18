@@ -1,5 +1,6 @@
 ---
 layout: default 
+title: Edward Linscott's personal website
 ---
 
 ![face](./assets/el_mugshot.jpg){:style="display: block; width: auto; height:350px; margin-left: auto; margin-right:40px; float: left;"}
