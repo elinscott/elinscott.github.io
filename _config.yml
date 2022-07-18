@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 author: Edward Linscott
-title: "Edward Linscott's personal website"
+title: Edward Linscott
 name: Edward Linscott
 email: edward.linscott[at]epfl.ch
 description: Postdoc at EPFL
