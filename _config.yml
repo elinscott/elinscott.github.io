@@ -22,7 +22,7 @@ show_downloads: false
 description: >- # this means to ignore newlines until "baseurl:"
   Website of Edward Linscott, postdoctoral researcher at EPFL
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://elinscott.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
@@ -36,6 +36,7 @@ departmental_website: https://people.epfl.ch/edward.linscott/
 scholar_id: 4_ejng0AAAAJ&hl
 plugins:
   - jekyll-gist
+  - jekyll-titles-from-headings
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
