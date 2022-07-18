@@ -4,7 +4,7 @@ title: Resources
 ---
 
 ## CV 
-My CV can be found [here](https://elinscott.github.io/cv/cv.pdf)
+My CV can be found [here](./cv/cv.pdf)
 
 ## PhD thesis
 My PhD thesis is accessible via Cambridge's repository and can be found [here](https://doi.org/10.17863/CAM.44803)

@@ -13,6 +13,8 @@ Current research interests include:
 
 I completed my PhD at the University of Cambridge, supervised by [Dr. Daniel Cole](https://blogs.ncl.ac.uk/danielcole/) and [Prof. Mike Payne](http://www.tcm.phy.cam.ac.uk/profiles/mcp1/) on methods for accurately simulating organometallic proteins. 
 
+You can view my CV [here](./cv/cv.pfg)
+
 <center>
 <a class="twitter-timeline" data-width="500" data-height="600" data-theme="dark" href="https://twitter.com/ed_linscott?ref_src=twsrc%5Etfw">Tweets by ed_linscott</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </center>
