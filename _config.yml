@@ -36,7 +36,6 @@ departmental_website: https://people.epfl.ch/edward.linscott/
 scholar_id: 4_ejng0AAAAJ&hl
 plugins:
   - jekyll-gist
-  - jekyll-titles-from-headings
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
