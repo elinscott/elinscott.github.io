@@ -8,10 +8,10 @@ title: Papers
 **EBL**, Nicola Colonna, Riccardo De Gennaro, Ngoc Linh Nguyen, Giovanni Borghi, Andrea Ferretti, Ismaila Dabo, and Nicola Marzari (2023). <a href="https://arxiv.org/abs/2302.07759"><i class="ai ai-arxiv "></i></a>
 
 <a href="https://arxiv.org/abs/2212.05950">__Testing Koopmans spectral functionals on the analytically-solvable Hooke's atom__  </a> <br />
-Yannick Schubert, Nicola Marzari, and **EBL** (2022). <a href="https://arxiv.org/abs/2212.05950"><i class="ai ai-arxiv "></i></a>
+Yannick Schubert, Nicola Marzari, and **EBL**, *J. Chem. Phys.* **accepted** (2023). <a href="https://arxiv.org/abs/2212.05950"><i class="ai ai-arxiv "></i></a>
 
 <a href="https://arxiv.org/abs/2210.17404">__A DFT+U type functional derived to explicitly address the flat plane condition__  </a> <br />
-Andrew Burgess, **EBL**, and David D. O'Regan, *Phys. Rev. B.* **accepted** (2022). <a href="https://arxiv.org/abs/2210.17404"><i class="ai ai-arxiv "></i></a>
+Andrew Burgess, **EBL**, and David D. O'Regan, *Phys. Rev. B.* **accepted** (2023). <a href="https://arxiv.org/abs/2210.17404"><i class="ai ai-arxiv "></i></a>
 
 <a href="https://arxiv.org/abs/2201.04213">__High-throughput determination of Hubbard U and Hund J values for transition metal oxides via linear response formalism__  </a> <br />
 Guy C. Moore, Matthew K. Horton, Alexander Ganose, Martin Siron, **EBL**, David D. O'Regan, and Kristin A. Persson (2022). <a href="https://arxiv.org/abs/2201.04213"><i class="ai ai-arxiv "></i></a>
