@@ -4,14 +4,20 @@ title: Papers
 ---
 
 ## Papers
+<a href="https://arxiv.org/abs/2307.16003">__The tilted-plane structure of the energy of open quantum systems__  </a> <br />
+Andrew Burgess, **EBL**, and David D. O'Regan (2023). <a href="https://arxiv.org/abs/2307.16003"><i class="ai ai-arxiv "></i></a>
+
+<a href="https://arxiv.org/abs/2306.06286">__On-site and inter-site Hubbard corrections in magnetic monolayers: The case of FePS<sub>3</sub> and CrI<sub>3</sub>__  </a> <br />
+Fatemeh Haddadi, **EBL**, Iurii Timrov, Nicola Marzari, and Marco Gibertini (2023). <a href="https://arxiv.org/abs/2302.07759"><i class="ai ai-arxiv "></i></a>
+
 <a href="https://arxiv.org/abs/2302.07759">__<tt>koopmans</tt>: an open-source package for accurately and efficiently predicting spectral properties with Koopmans functionals__  </a> <br />
-**EBL**, Nicola Colonna, Riccardo De Gennaro, Ngoc Linh Nguyen, Giovanni Borghi, Andrea Ferretti, Ismaila Dabo, and Nicola Marzari (2023). <a href="https://arxiv.org/abs/2302.07759"><i class="ai ai-arxiv "></i></a>
+**EBL**, Nicola Colonna, Riccardo De Gennaro, Ngoc Linh Nguyen, Giovanni Borghi, Andrea Ferretti, Ismaila Dabo, and Nicola Marzari (2023). *J. Chem. Theory Comput.* **accepted** <a href="https://arxiv.org/abs/2302.07759"><i class="ai ai-arxiv "></i></a>
 
-<a href="https://arxiv.org/abs/2212.05950">__Testing Koopmans spectral functionals on the analytically-solvable Hooke's atom__  </a> <br />
-Yannick Schubert, Nicola Marzari, and **EBL**, *J. Chem. Phys.* **accepted** (2023). <a href="https://arxiv.org/abs/2212.05950"><i class="ai ai-arxiv "></i></a>
+<a href="https://doi.org/10.1063/5.0138610">__Testing Koopmans spectral functionals on the analytically-solvable Hooke's atom__  </a> <br />
+Yannick Schubert, Nicola Marzari, and **EBL**, *J. Chem. Phys.* **158** (2023). <a href="https://doi.org/10.1063/5.0138610"><i class="ai ai-doi "></i></a> <a href="https://arxiv.org/abs/2212.05950"><i class="ai ai-arxiv "></i></a>
 
-<a href="https://arxiv.org/abs/2210.17404">__A DFT+U type functional derived to explicitly address the flat plane condition__  </a> <br />
-Andrew Burgess, **EBL**, and David D. O'Regan, *Phys. Rev. B.* **accepted** (2023). <a href="https://arxiv.org/abs/2210.17404"><i class="ai ai-arxiv "></i></a>
+<a href="https://doi.org/10.1103/PhysRevB.107.L121115">__A DFT+U type functional derived to explicitly address the flat plane condition__  </a> <br />
+Andrew Burgess, **EBL**, and David D. O'Regan, *Phys. Rev. B.* **107** (2023). <a href="https://doi.org/10.1103/PhysRevB.107.L121115"><i class="ai ai-doi "></i></a> <a href="https://arxiv.org/abs/2210.17404"><i class="ai ai-arxiv "></i></a>
 
 <a href="https://arxiv.org/abs/2201.04213">__High-throughput determination of Hubbard U and Hund J values for transition metal oxides via linear response formalism__  </a> <br />
 Guy C. Moore, Matthew K. Horton, Alexander Ganose, Martin Siron, **EBL**, David D. O'Regan, and Kristin A. Persson (2022). <a href="https://arxiv.org/abs/2201.04213"><i class="ai ai-arxiv "></i></a>
