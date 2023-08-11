@@ -6,14 +6,6 @@ title: Resources
 ## CV 
 My CV can be found [here](./cv/cv.pdf)
 
-## PhD thesis
-My PhD thesis is accessible via Cambridge's repository and can be found [here](https://doi.org/10.17863/CAM.44803)
-
-## PhD thesis template
-A LaTeX template for theses can be found on [bitbucket](https://bitbucket.org/elinscott/thesis_template):
-
-`git clone git@bitbucket.org:elinscott/thesis_template.git`
-
 ## Selected talks
 [koopmans: an open-source package for accurately predicting spectral properties](./assets/dft2022_slides.pdf), DFT2022, September 2022  
 [Accurately predicting electron affinities with Koopmans spectral functionals](https://github.com/elinscott/files/raw/main/presentation_aps_2021.pdf), APS March Meeting, March 2021  
@@ -27,7 +19,7 @@ A LaTeX template for theses can be found on [bitbucket](https://bitbucket.org/el
 ## Teaching
 
 EPFL
-- Masters-level ADD MSE 468 here
+- [Masters-level](https://edu.epfl.ch/coursebook/en/atomistic-and-quantum-simulations-of-materials-MSE-468) Atomistic and quantum simulations of materials
 
 University of Cambridge
 - [Third-year](https://www.phy.cam.ac.uk/students/teaching/current-courses/II_overview) Thermal and Statistical Physics
@@ -37,3 +29,12 @@ University of Cambridge
 
 University of Otago
 - First-year [Biological Physics](https://www.otago.ac.nz/physics/study/undergraduate/index.html?papercode=PHSI191)
+
+## PhD thesis
+My PhD thesis is accessible via Cambridge's repository and can be found [here](https://doi.org/10.17863/CAM.44803)
+
+## PhD thesis template
+A LaTeX template for theses can be found on [bitbucket](https://bitbucket.org/elinscott/thesis_template):
+
+`git clone git@bitbucket.org:elinscott/thesis_template.git`
+
