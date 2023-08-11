@@ -11,7 +11,7 @@ Andrew Burgess, **EBL**, and David D. O'Regan (2023). <a href="https://arxiv.org
 Fatemeh Haddadi, **EBL**, Iurii Timrov, Nicola Marzari, and Marco Gibertini (2023). <a href="https://arxiv.org/abs/2302.07759"><i class="ai ai-arxiv "></i></a>
 
 <a href="https://arxiv.org/abs/2302.07759">__<tt>koopmans</tt>: an open-source package for accurately and efficiently predicting spectral properties with Koopmans functionals__  </a> <br />
-**EBL**, Nicola Colonna, Riccardo De Gennaro, Ngoc Linh Nguyen, Giovanni Borghi, Andrea Ferretti, Ismaila Dabo, and Nicola Marzari (2023). *J. Chem. Theory Comput.* **accepted** <a href="https://arxiv.org/abs/2302.07759"><i class="ai ai-arxiv "></i></a>
+**EBL**, Nicola Colonna, Riccardo De Gennaro, Ngoc Linh Nguyen, Giovanni Borghi, Andrea Ferretti, Ismaila Dabo, and Nicola Marzari. *J. Chem. Theory Comput.* **accepted** (2023) <a href="https://arxiv.org/abs/2302.07759"><i class="ai ai-arxiv "></i></a>
 
 <a href="https://doi.org/10.1063/5.0138610">__Testing Koopmans spectral functionals on the analytically-solvable Hooke's atom__  </a> <br />
 Yannick Schubert, Nicola Marzari, and **EBL**, *J. Chem. Phys.* **158** (2023). <a href="https://doi.org/10.1063/5.0138610"><i class="ai ai-doi "></i></a> <a href="https://arxiv.org/abs/2212.05950"><i class="ai ai-arxiv "></i></a>
