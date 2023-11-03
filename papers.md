@@ -4,6 +4,9 @@ title: Papers
 ---
 
 ## Papers
+<a href="https://arxiv.org/abs/2309.17443">__The convexity condition of density functional theory__  </a> <br />
+Andrew Burgess, **EBL**, and David D. O'Regan (2023). <a href="https://arxiv.org/abs/2309.17443"><i class="ai ai-arxiv "></i></a>
+
 <a href="https://arxiv.org/abs/2307.16003">__The tilted-plane structure of the energy of open quantum systems__  </a> <br />
 Andrew Burgess, **EBL**, and David D. O'Regan (2023). <a href="https://arxiv.org/abs/2307.16003"><i class="ai ai-arxiv "></i></a>
 
@@ -11,7 +14,7 @@ Andrew Burgess, **EBL**, and David D. O'Regan (2023). <a href="https://arxiv.org
 Fatemeh Haddadi, **EBL**, Iurii Timrov, Nicola Marzari, and Marco Gibertini (2023). <a href="https://arxiv.org/abs/2302.07759"><i class="ai ai-arxiv "></i></a>
 
 <a href="https://arxiv.org/abs/2302.07759">__<tt>koopmans</tt>: an open-source package for accurately and efficiently predicting spectral properties with Koopmans functionals__  </a> <br />
-**EBL**, Nicola Colonna, Riccardo De Gennaro, Ngoc Linh Nguyen, Giovanni Borghi, Andrea Ferretti, Ismaila Dabo, and Nicola Marzari. *J. Chem. Theory Comput.* **accepted** (2023) <a href="https://arxiv.org/abs/2302.07759"><i class="ai ai-arxiv "></i></a>
+**EBL**, Nicola Colonna, Riccardo De Gennaro, Ngoc Linh Nguyen, Giovanni Borghi, Andrea Ferretti, Ismaila Dabo, and Nicola Marzari. *J. Chem. Theory Comput.* **19** (2023). <a href="https://doi.org/10.1021/acs.jctc.3c00652"><i class="ai ai-doi "></i></a><a href="https://arxiv.org/abs/2302.07759"><i class="ai ai-arxiv "></i></a>
 
 <a href="https://doi.org/10.1063/5.0138610">__Testing Koopmans spectral functionals on the analytically-solvable Hooke's atom__  </a> <br />
 Yannick Schubert, Nicola Marzari, and **EBL**, *J. Chem. Phys.* **158** (2023). <a href="https://doi.org/10.1063/5.0138610"><i class="ai ai-doi "></i></a> <a href="https://arxiv.org/abs/2212.05950"><i class="ai ai-arxiv "></i></a>
