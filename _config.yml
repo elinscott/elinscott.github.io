@@ -16,11 +16,11 @@
 author: Edward Linscott
 title: Edward Linscott
 name: Edward Linscott
-email: edward.linscott[at]epfl.ch
-description: Postdoc at EPFL
+email: edward.linscott[at]psi.ch
+description: Postdoc at PSI
 show_downloads: false
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal website of Edward Linscott, postdoctoral researcher at EPFL
+  Personal website of Edward Linscott, postdoctoral researcher at PSI
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://elinscott.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -32,7 +32,7 @@ github_username: elinscott
 bitbucket_username: elinscott
 orcid_id: 0000-0002-4967-9873
 linkedin_username: elinscott
-departmental_website: https://people.epfl.ch/edward.linscott/
+departmental_website: https://www.psi.ch/en/lms/people/edward-baxter-linscott
 scholar_id: 4_ejng0AAAAJ&hl
 plugins:
   - jekyll-gist
