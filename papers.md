@@ -5,7 +5,10 @@ title: Papers
 
 ## Papers
 <a href="https://arxiv.org/abs/2309.17443">__The convexity condition of density functional theory__  </a> <br />
-Andrew Burgess, **EBL**, and David D. O'Regan (2023). <a href="https://arxiv.org/abs/2309.17443"><i class="ai ai-arxiv "></i></a>
+Andrew Burgess, **EBL**, and David D. O'Regan *J. Chem. Phys.* **accepted** (2023). <a href="https://arxiv.org/abs/2309.17443"><i class="ai ai-arxiv "></i></a>
+
+<a href="https://arxiv.org/abs/2201.04213">__High-throughput determination of Hubbard U and Hund J values for transition metal oxides via linear response formalism__  </a> <br />
+Guy C. Moore, Matthew K. Horton, Alexander Ganose, Martin Siron, **EBL**, David D. O'Regan, and Kristin A. Persson *Phys. Rev. Mater.* **accepted** (2023). <a href="https://arxiv.org/abs/2201.04213"><i class="ai ai-arxiv "></i></a>
 
 <a href="https://arxiv.org/abs/2307.16003">__The tilted-plane structure of the energy of open quantum systems__  </a> <br />
 Andrew Burgess, **EBL**, and David D. O'Regan (2023). <a href="https://arxiv.org/abs/2307.16003"><i class="ai ai-arxiv "></i></a>
@@ -21,9 +24,6 @@ Yannick Schubert, Nicola Marzari, and **EBL**, *J. Chem. Phys.* **158** (2023). 
 
 <a href="https://doi.org/10.1103/PhysRevB.107.L121115">__A DFT+U type functional derived to explicitly address the flat plane condition__  </a> <br />
 Andrew Burgess, **EBL**, and David D. O'Regan, *Phys. Rev. B.* **107** (2023). <a href="https://doi.org/10.1103/PhysRevB.107.L121115"><i class="ai ai-doi "></i></a> <a href="https://arxiv.org/abs/2210.17404"><i class="ai ai-arxiv "></i></a>
-
-<a href="https://arxiv.org/abs/2201.04213">__High-throughput determination of Hubbard U and Hund J values for transition metal oxides via linear response formalism__  </a> <br />
-Guy C. Moore, Matthew K. Horton, Alexander Ganose, Martin Siron, **EBL**, David D. O'Regan, and Kristin A. Persson (2022). <a href="https://arxiv.org/abs/2201.04213"><i class="ai ai-arxiv "></i></a>
 
 <a href="https://pubs.acs.org/doi/10.1021/acs.jctc.2c00161">__Koopmans spectral functionals in periodic-boundary conditions__  </a> <br />
 Nicola Colonna, Riccardo De Gennaro, **EBL**, and Nicola Marzari, *J. Chem. Theory Comput.* **18** (2022). <a href="https://doi.org/10.1021/acs.jctc.2c00161"><i class="ai ai-doi "></i></a> <a href="https://arxiv.org/abs/2202.08155"><i class="ai ai-arxiv "></i></a>
