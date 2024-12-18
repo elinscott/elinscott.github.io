@@ -13,8 +13,8 @@ My CV can be found [here](./cv/cv.pdf)
 [Advances in linear-scaling DFT and DMFT for biological applications](http://files.tcm.phy.cam.ac.uk/~ebl27/Slides_NGSCES_2017.pdf), New Generation in Strongly Correlated Electrons Systems 2017, Institute of Photonic Sciences, Barcelona, September 2017
 
 ## Selected posters
+[Predicitng electronic screening for fast Koopmans spectral functionals](https://github.com/elinscott-talks/total_energies_poster_2025/blob/main/main.pdf), 22nd International Workshop on Computational Physics and Materials Science: Total Energy and Force Methods, Trieste, Jan 2025
 [Accurately predicting electron affinities with Koopmans spectral functionals](https://github.com/elinscott/files/raw/main/poster_total_energy_and_forces_2021.pdf), 20th International Workshop on Computational Physics and Materials Science: Total Energy and Force Methods, Online, Feb 2021  
-[Electronic correlation in PSII](http://files.tcm.phy.cam.ac.uk/~ebl27/Poster_CCP9_2018.pdf), CCP9 Young Researchers' Meeting, University of York, July 2018
 
 ## Teaching
 
