@@ -18,10 +18,6 @@ Invited talk, Quantum Theory of Materials Seminar, Dublin, 2021 ([video](https:/
 [Correcting the failings of DFT: DFT+U, Koopmans spectral functionals, and dynamical mean field theory](https://www.youtube.com/watch?v=AI6qFGf1Zcw&ab_channel=JoshuahHeath), Quantum Fluids in Isolation Seminar Series, Boston College, Newton MA (via zoom), December 2020  
 [Advances in linear-scaling DFT and DMFT for biological applications](http://files.tcm.phy.cam.ac.uk/~ebl27/Slides_NGSCES_2017.pdf), New Generation in Strongly Correlated Electrons Systems 2017, Institute of Photonic Sciences, Barcelona, September 2017
 
-## Selected posters
-[Predicting electronic screening for fast Koopmans spectral functionals](https://github.com/elinscott-talks/total_energies_poster_2025/blob/main/main.pdf), 22nd International Workshop on Computational Physics and Materials Science: Total Energy and Force Methods, Trieste, Jan 2025  
-[Accurately predicting electron affinities with Koopmans spectral functionals](https://github.com/elinscott/files/raw/main/poster_total_energy_and_forces_2021.pdf), 20th International Workshop on Computational Physics and Materials Science: Total Energy and Force Methods, Online, Feb 2021  
-
 ## Teaching
 
 EPFL
