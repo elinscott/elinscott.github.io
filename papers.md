@@ -4,20 +4,32 @@ title: Papers
 ---
 
 ## Papers
-<a href="https://arxiv.org/abs/2309.17443">__The convexity condition of density functional theory__  </a> <br />
-Andrew Burgess, **EBL**, and David D. O'Regan *J. Chem. Phys.* **accepted** (2023). <a href="https://arxiv.org/abs/2309.17443"><i class="ai ai-arxiv "></i></a>
+<a href="https://doi.org/10.1103/qghb-78nd">__DFT+U+V is equivalent to DFT+U with density-dependent hybridized projectors__  </a> <br />
+**EBL**, Alberto Carta, and Nicola Marzari, *Phys. Rev. Research* **8** (2026). <a href="https://doi.org/10.1103/qghb-78nd"><i class="ai ai-doi "></i></a> <a href="https://arxiv.org/abs/2607.18071"><i class="ai ai-arxiv "></i></a>
 
-<a href="https://arxiv.org/abs/2201.04213">__High-throughput determination of Hubbard U and Hund J values for transition metal oxides via linear response formalism__  </a> <br />
-Guy C. Moore, Matthew K. Horton, Alexander Ganose, Martin Siron, **EBL**, David D. O'Regan, and Kristin A. Persson *Phys. Rev. Mater.* **accepted** (2023). <a href="https://arxiv.org/abs/2201.04213"><i class="ai ai-arxiv "></i></a>
+<a href="https://doi.org/10.1103/6gqw-thc1">__Predicting the suitability of photocatalysts for water splitting using Koopmans spectral functionals: The case of TiO<sub>2</sub> polymorphs__  </a> <br />
+Marija Stojkovic, **EBL**, and Nicola Marzari, *Phys. Rev. Mater.* **10** (2026). <a href="https://doi.org/10.1103/6gqw-thc1"><i class="ai ai-doi "></i></a>
 
-<a href="https://arxiv.org/abs/2307.16003">__The tilted-plane structure of the energy of open quantum systems__  </a> <br />
-Andrew Burgess, **EBL**, and David D. O'Regan (2023). <a href="https://arxiv.org/abs/2307.16003"><i class="ai ai-arxiv "></i></a>
+<a href="https://doi.org/10.1038/s41524-024-01484-3">__Predicting electronic screening for fast Koopmans spectral functional calculations__  </a> <br />
+Yannick Schubert, Sandra Luber, Nicola Marzari, and **EBL**, *npj Comput. Mater.* **10** (2024). <a href="https://doi.org/10.1038/s41524-024-01484-3"><i class="ai ai-doi "></i></a>
 
-<a href="https://arxiv.org/abs/2306.06286">__On-site and inter-site Hubbard corrections in magnetic monolayers: The case of FePS<sub>3</sub> and CrI<sub>3</sub>__  </a> <br />
-Fatemeh Haddadi, **EBL**, Iurii Timrov, Nicola Marzari, and Marco Gibertini (2023). <a href="https://arxiv.org/abs/2302.07759"><i class="ai ai-arxiv "></i></a>
+<a href="https://doi.org/10.1103/PhysRevLett.133.026404">__Tilted-plane structure of the energy of finite quantum systems__  </a> <br />
+Andrew C. Burgess, **EBL**, and David D. O'Regan, *Phys. Rev. Lett.* **133** (2024). <a href="https://doi.org/10.1103/PhysRevLett.133.026404"><i class="ai ai-doi "></i></a> <a href="https://arxiv.org/abs/2307.16003"><i class="ai ai-arxiv "></i></a>
 
-<a href="https://arxiv.org/abs/2302.07759">__<tt>koopmans</tt>: an open-source package for accurately and efficiently predicting spectral properties with Koopmans functionals__  </a> <br />
-**EBL**, Nicola Colonna, Riccardo De Gennaro, Ngoc Linh Nguyen, Giovanni Borghi, Andrea Ferretti, Ismaila Dabo, and Nicola Marzari. *J. Chem. Theory Comput.* **19** (2023). <a href="https://doi.org/10.1021/acs.jctc.3c00652"><i class="ai ai-doi "></i></a><a href="https://arxiv.org/abs/2302.07759"><i class="ai ai-arxiv "></i></a>
+<a href="https://doi.org/10.1021/acs.jpcc.3c07957">__Accurate and efficient computation of the fundamental bandgap of the vacancy-ordered double perovskite Cs<sub>2</sub>TiBr<sub>6</sub>__  </a> <br />
+J. E. Ingall, **EBL**, Nicola Colonna, Alister J. Page, and Vicki J. Keast, *J. Phys. Chem. C* **128** (2024). <a href="https://doi.org/10.1021/acs.jpcc.3c07957"><i class="ai ai-doi "></i></a>
+
+<a href="https://doi.org/10.1103/PhysRevMaterials.8.014409">__High-throughput determination of Hubbard U and Hund J values for transition metal oxides via the linear response formalism__  </a> <br />
+Guy C. Moore, Matthew K. Horton, **EBL**, Alexander M. Ganose, Martin Siron, David D. O'Regan, and Kristin A. Persson, *Phys. Rev. Mater.* **8** (2024). <a href="https://doi.org/10.1103/PhysRevMaterials.8.014409"><i class="ai ai-doi "></i></a> <a href="https://arxiv.org/abs/2201.04213"><i class="ai ai-arxiv "></i></a>
+
+<a href="https://doi.org/10.1103/PhysRevMaterials.8.014007">__On-site and intersite Hubbard corrections in magnetic monolayers: The case of FePS<sub>3</sub> and CrI<sub>3</sub>__  </a> <br />
+Fatemeh Haddadi, **EBL**, Iurii Timrov, Nicola Marzari, and Marco Gibertini, *Phys. Rev. Mater.* **8** (2024). <a href="https://doi.org/10.1103/PhysRevMaterials.8.014007"><i class="ai ai-doi "></i></a> <a href="https://arxiv.org/abs/2306.06286"><i class="ai ai-arxiv "></i></a>
+
+<a href="https://doi.org/10.1063/5.0174159">__The convexity condition of density-functional theory__  </a> <br />
+Andrew C. Burgess, **EBL**, and David D. O'Regan, *J. Chem. Phys.* **159** (2023). <a href="https://doi.org/10.1063/5.0174159"><i class="ai ai-doi "></i></a> <a href="https://arxiv.org/abs/2309.17443"><i class="ai ai-arxiv "></i></a>
+
+<a href="https://doi.org/10.1021/acs.jctc.3c00652">__<tt>koopmans</tt>: an open-source package for accurately and efficiently predicting spectral properties with Koopmans functionals__  </a> <br />
+**EBL**, Nicola Colonna, Riccardo De Gennaro, Ngoc Linh Nguyen, Giovanni Borghi, Andrea Ferretti, Ismaila Dabo, and Nicola Marzari. *J. Chem. Theory Comput.* **19** (2023). <a href="https://doi.org/10.1021/acs.jctc.3c00652"><i class="ai ai-doi "></i></a> <a href="https://arxiv.org/abs/2302.07759"><i class="ai ai-arxiv "></i></a>
 
 <a href="https://doi.org/10.1063/5.0138610">__Testing Koopmans spectral functionals on the analytically-solvable Hooke's atom__  </a> <br />
 Yannick Schubert, Nicola Marzari, and **EBL**, *J. Chem. Phys.* **158** (2023). <a href="https://doi.org/10.1063/5.0138610"><i class="ai ai-doi "></i></a> <a href="https://arxiv.org/abs/2212.05950"><i class="ai ai-arxiv "></i></a>
