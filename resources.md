@@ -7,16 +7,36 @@ title: Resources
 My CV can be found [here](./cv/cv.pdf)
 
 ## Selected talks
-Invited talk, Psi-k 2025 Conference, Lausanne, 2025  
-Invited talk, Beyond ground state simulations: Navigating challenges in excited states of molecules and materials, Lausanne, 2024  
-Advanced Quantum ESPRESSO tutorial: Hubbard and Koopmans functionals from linear response, Pavia, 2023 ([video](https://youtu.be/GVmiHSSAAfc?si=v3RpxtovOaUZljtd))  
-[koopmans: an open-source package for accurately predicting spectral properties](./assets/dft2022_slides.pdf), DFT2022, September 2022  
-Advanced Quantum ESPRESSO tutorial: Hubbard and Koopmans functionals from linear response, online, 2022 ([video](https://youtu.be/tgzgs1bp14w))  
-Invited talk, 9th Time-Dependent Density-Functional Theory Workshop: Prospects and Applications, Benasque, 2022  
-Invited talk, Quantum Theory of Materials Seminar, Dublin, 2021 ([video](https://youtu.be/E_Uu_ujmWS0))  
-[Accurately predicting electron affinities with Koopmans spectral functionals](https://github.com/elinscott/files/raw/main/presentation_aps_2021.pdf), APS March Meeting, March 2021  
-[Correcting the failings of DFT: DFT+U, Koopmans spectral functionals, and dynamical mean field theory](https://www.youtube.com/watch?v=AI6qFGf1Zcw&ab_channel=JoshuahHeath), Quantum Fluids in Isolation Seminar Series, Boston College, Newton MA (via zoom), December 2020  
-[Advances in linear-scaling DFT and DMFT for biological applications](http://files.tcm.phy.cam.ac.uk/~ebl27/Slides_NGSCES_2017.pdf), New Generation in Strongly Correlated Electrons Systems 2017, Institute of Photonic Sciences, Barcelona, September 2017
+
+**[Koopmans functionals: How satisfying piecewise linearity can yield reliable band structures](https://github.com/elinscott-talks/psi_k_2025/blob/main/slides.pdf)**  
+Psi-k 2025 Conference, Lausanne, August 2025 (invited)
+
+**[Koopmans functionals: Baking localised charged excitation energies into DFT](https://github.com/elinscott-talks/cecam_excited_states_2024/blob/main/slides.pdf)**  
+CECAM workshop "Beyond ground state simulations: Navigating challenges in excited states of molecules and materials", Lausanne, November 2024 (invited)
+
+**[koopmans: an open-source package for accurately predicting spectral properties](https://github.com/elinscott-talks/qe_school_2023/blob/main/slides.pdf)**  
+Advanced Quantum ESPRESSO tutorial: Hubbard and Koopmans functionals from linear response, Pavia, August 2023 ([video](https://youtu.be/GVmiHSSAAfc?si=v3RpxtovOaUZljtd))
+
+**[koopmans: an open-source package for accurately predicting spectral properties](./assets/dft2022_slides.pdf)**  
+DFT2022, Brussels, September 2022
+
+**Advanced Quantum ESPRESSO tutorial: Hubbard and Koopmans functionals from linear response**  
+Online, 2022 ([video](https://youtu.be/tgzgs1bp14w))
+
+**[koopmans: an open-source package for accurately predicting spectral properties](https://github.com/elinscott-talks/benasque_tddft_2022/blob/main/slides.pdf)**  
+9th Time-Dependent Density-Functional Theory Workshop: Prospects and Applications, Benasque, October 2022 (invited)
+
+**Quantum Theory of Materials Seminar**  
+Dublin, 2021 (invited) ([video](https://youtu.be/E_Uu_ujmWS0))
+
+**[Accurately predicting electron affinities with Koopmans spectral functionals](https://github.com/elinscott/files/raw/main/presentation_aps_2021.pdf)**  
+APS March Meeting, March 2021
+
+**[Correcting the failings of DFT: DFT+U, Koopmans spectral functionals, and dynamical mean field theory](https://www.youtube.com/watch?v=AI6qFGf1Zcw&ab_channel=JoshuahHeath)**  
+Quantum Fluids in Isolation Seminar Series, Boston College, Newton MA (via zoom), December 2020
+
+**[Advances in linear-scaling DFT and DMFT for biological applications](http://files.tcm.phy.cam.ac.uk/~ebl27/Slides_NGSCES_2017.pdf)**  
+New Generation in Strongly Correlated Electrons Systems 2017, Institute of Photonic Sciences, Barcelona, September 2017
 
 ## Teaching
 
