@@ -3,6 +3,8 @@ layout: default
 title: Research
 ---
 
+{% include figure-gallery.html figures=site.data.research_figures %}
+
 ## Research areas
 
 ### Koopmans functionals

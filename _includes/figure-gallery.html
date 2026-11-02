@@ -1,0 +1,23 @@
+{%- comment -%}
+  Carousel of figures from _data/research_figures.yml, using Splide (https://splidejs.com).
+  Usage: {% include figure-gallery.html figures=site.data.research_figures %}
+{%- endcomment -%}
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css">
+<section class="splide figure-carousel" aria-label="Figures from my research">
+  <div class="splide__track">
+    <ul class="splide__list">
+      {%- for fig in include.figures %}
+      <li class="splide__slide">
+        <figure>
+          <img src="{{ '/assets/research/' | append: fig.image | relative_url }}" alt="{{ fig.caption | strip_html }}">
+          <figcaption>{{ fig.caption }} [<a href="https://doi.org/{{ fig.doi }}">{{ fig.source | markdownify | remove: '<p>' | remove: '</p>' | strip }}</a>]</figcaption>
+        </figure>
+      </li>
+      {%- endfor %}
+    </ul>
+  </div>
+</section>
+<script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/js/splide.min.js"></script>
+<script>
+  new Splide('.figure-carousel', { type: 'loop' }).mount();
+</script>

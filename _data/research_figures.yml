@@ -1,0 +1,28 @@
+# Figures shown in the gallery on the research page.
+# Captions are Markdown; `source` is the citation shown after the caption.
+
+- image: nguyen_band_gaps_scatter.png
+  caption: Band gaps from Koopmans functionals and DFT compared with experiment
+  source: adapted from Nguyen *et al.*, Phys. Rev. X 2018
+  doi: 10.1103/PhysRevX.8.021051
+- image: linscott_zno_bandstructure.png
+  caption: Band structure of ZnO from the KI functional, compared with LDA
+  source: Linscott *et al.*, J. Chem. Theory Comput. 2023
+  doi: 10.1021/acs.jctc.3c00652
+- image: schubert_ml_screening_cssni3.png
+  caption: Machine-learned vs. calculated screening parameters for CsSnI<sub>3</sub>
+  source: adapted from Schubert *et al.*, npj Comput. Mater. 2024
+  doi: 10.1038/s41524-024-01484-3
+- image: stojkovic_band_alignment.png
+  caption: Aligning band edges to the vacuum level using a slab calculation
+  source: Stojkovic *et al.*, Phys. Rev. Mater. 2026
+  doi: 10.1103/6gqw-thc1
+
+- image: burgess_dft_error_he.png
+  caption: PBE energy error for He relative to the exact flat-plane condition
+  source: Burgess *et al.*, Phys. Rev. B 2023
+  doi: 10.1103/PhysRevB.107.L121115
+- image: linscott_diff_hyb_diag.png
+  caption: Change in effective projectors induced by inter-site terms in DFT+U+V
+  source: Linscott *et al.*, Phys. Rev. Research 2026
+  doi: 10.1103/qghb-78nd
