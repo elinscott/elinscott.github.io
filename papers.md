@@ -3,7 +3,6 @@ layout: default
 title: Papers
 ---
 
-## Papers
 <a href="https://doi.org/10.1103/qghb-78nd">__DFT+U+V is equivalent to DFT+U with density-dependent hybridized projectors__  </a> <br />
 **EBL**, Alberto Carta, and Nicola Marzari, *Phys. Rev. Research* **8** (2026). <a href="https://doi.org/10.1103/qghb-78nd"><i class="ai ai-doi "></i></a> <a href="https://arxiv.org/abs/2607.18071"><i class="ai ai-arxiv "></i></a>
 
