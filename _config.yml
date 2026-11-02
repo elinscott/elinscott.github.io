@@ -27,7 +27,7 @@ url: "https://elinscott.github.io" # the base hostname & protocol for your site,
 # Build settings
 markdown: kramdown
 theme: minima
-twitter_username: ed_linscott
+bluesky_username: elinscott.github.io
 github_username: elinscott
 bitbucket_username: elinscott
 orcid_id: 0000-0002-4967-9873
